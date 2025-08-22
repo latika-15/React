@@ -1,0 +1,24 @@
+{
+  "name": "reactbasic",
+  "version": "1.0.0",
+  "main": "L2_s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latika-15/React.git"
+  },
+  "author": "Latika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/latika-15/React/issues"
+  },
+  "homepage": "https://github.com/latika-15/React#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.15.4"
+  }
+}
+
+
